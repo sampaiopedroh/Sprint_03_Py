@@ -2,6 +2,7 @@
   Este repositório contém o código Python para um simulador de corrida de Fórmula E, desenvolvido como parte da Challenge Fórmula E. O código representa a entrega da Sprint 3, com foco em criar um protótipo funcional e interativo.
 
 -> Descrição do Código:
+
   O simulador é uma aplicação de linha de comando que permite ao usuário acompanhar uma corrida de Fórmula E simulada. O código utiliza dicionários para representar os carros e suas características (velocidade, bateria, desgaste dos pneus).
 
 -> Funcionalidades:
@@ -11,6 +12,7 @@
 - Interação com o usuário: a corrida avança em intervalos de 1 segundo controlados pelo usuário (pressionando Enter).
 
 -> Intuito:
+
   O objetivo principal desta sprint é transformar o código da Sprint 1 em um protótipo funcional, adicionando elementos interativos e melhorando a experiência do usuário.
 
 -> Melhorias em Relação à Sprint 1:
