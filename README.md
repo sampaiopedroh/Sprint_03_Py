@@ -25,3 +25,9 @@
 - Faça o download ou clone este repositório.
 - Abra um terminal e navegue até o diretório do projeto.
 - Execute o comando python simulador.py (substitua "simulador.py" pelo nome do arquivo Python).
+
+-> Integrantes:
+  - Davi Vieira (556798) 
+  - Felipe Alamino (558819) 
+  - Luca Monteiro (556906) 
+  - Pedro Sampaio (555613) 
